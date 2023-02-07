@@ -1,0 +1,13 @@
+[data-theme='dark'] {
+  .panel-view,
+  .screen {
+    border-color: var(--chakra-colors-whiteAlpha-300);
+  }
+}
+
+[data-theme='light'] {
+  .panel-view,
+  .screen {
+    border-color: var(--chakra-colors-gray-200);
+  }
+}
